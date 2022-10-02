@@ -1,9 +1,12 @@
 <h1 align="center"> Hello, I'm Muhammet Ozturk</h1>
 <h3 align="center">🚀 Full Stack Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozmu" alt="ozmu" /> </p>
+<p align="left" style="padding: 2rem"> 
+    <img src="https://komarev.com/ghpvc/?username=ozmu" alt="ozmu" />
+    <a href="https://twitter.com/oztmuh" target="blank" style="float: right;padding-right: 1rem;"><img src="https://img.shields.io/twitter/follow/oztmuh?logo=twitter&style=for-the-badge" alt="oztmuh" /></a>
+</p>
 
-<p align="right"> <a href="https://twitter.com/oztmuh" target="blank"><img src="https://img.shields.io/twitter/follow/oztmuh?logo=twitter&style=for-the-badge" alt="oztmuh" /></a> </p>
+<p align="right">  </p>
 
 
 - 🔭 I’m currently working on [Phishy](https://github.com/phishy-io)
@@ -12,9 +15,6 @@
 - 💬 Ask me about Node.js & Vue.js
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ozturkmuhammet/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozturkmuhammeet@gmail.com)](mailto:ozturkmuhammeet@gmail.com)
-
-
-
 
 
 ![](https://github.com/abhinavdubeyad9/github-stats/blob/master/generated/overview.svg)
